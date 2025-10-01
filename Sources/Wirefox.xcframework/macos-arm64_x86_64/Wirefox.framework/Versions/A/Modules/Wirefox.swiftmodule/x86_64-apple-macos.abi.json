@@ -1,0 +1,898 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "Wirefox",
+    "printedName": "Wirefox",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Compression",
+        "printedName": "Compression",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox"
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "Wirefox"
+      },
+      {
+        "kind": "Import",
+        "name": "os",
+        "printedName": "os",
+        "declKind": "Import",
+        "moduleName": "Wirefox"
+      },
+      {
+        "kind": "Import",
+        "name": "zlib",
+        "printedName": "zlib",
+        "declKind": "Import",
+        "moduleName": "Wirefox"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "Wirefox"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "os",
+        "printedName": "os",
+        "declKind": "Import",
+        "moduleName": "Wirefox"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "Wirefox"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "Wirefox"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Wirefox",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WirefoxConsole",
+        "printedName": "WirefoxConsole",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(port:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WirefoxConsole",
+                "printedName": "Wirefox.WirefoxConsole",
+                "usr": "c:@M@Wirefox@objc(cs)WirefoxConsole"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UInt16",
+                "printedName": "Swift.UInt16",
+                "hasDefaultArg": true,
+                "usr": "s:s6UInt16V"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7Wirefox0A7ConsoleC4portACs6UInt16V_tcfc",
+            "mangledName": "$s7Wirefox0A7ConsoleC4portACs6UInt16V_tcfc",
+            "moduleName": "Wirefox",
+            "declAttributes": [
+              "Convenience",
+              "AccessControl"
+            ],
+            "init_kind": "Convenience"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Wirefox@objc(cs)WirefoxConsole(im)start:",
+            "mangledName": "$s7Wirefox0A7ConsoleC5startyyKF",
+            "moduleName": "Wirefox",
+            "objc_name": "start:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Wirefox@objc(cs)WirefoxConsole(im)stop",
+            "mangledName": "$s7Wirefox0A7ConsoleC4stopyyF",
+            "moduleName": "Wirefox",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WirefoxConsole",
+                "printedName": "Wirefox.WirefoxConsole",
+                "usr": "c:@M@Wirefox@objc(cs)WirefoxConsole"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Wirefox@objc(cs)WirefoxConsole(im)init",
+            "mangledName": "$s7Wirefox0A7ConsoleCACycfc",
+            "moduleName": "Wirefox",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Wirefox@objc(cs)WirefoxConsole",
+        "mangledName": "$s7Wirefox0A7ConsoleC",
+        "moduleName": "Wirefox",
+        "objc_name": "WirefoxConsole",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1589,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1788,
+      "length": 4,
+      "value": "1001"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1912,
+      "length": 4,
+      "value": "1002"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2068,
+      "length": 4,
+      "value": "1003"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2200,
+      "length": 4,
+      "value": "1005"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2338,
+      "length": 4,
+      "value": "1006"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2512,
+      "length": 4,
+      "value": "1007"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2669,
+      "length": 4,
+      "value": "1008"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2821,
+      "length": 4,
+      "value": "1009"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3013,
+      "length": 4,
+      "value": "1010"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3210,
+      "length": 4,
+      "value": "1011"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3336,
+      "length": 4,
+      "value": "1015"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/HTTPServer.swift",
+      "kind": "StringLiteral",
+      "offset": 499,
+      "length": 19,
+      "value": "\"http.server.queue\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/HTTPServer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 922,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/HTTPServer.swift",
+      "kind": "StringLiteral",
+      "offset": 7437,
+      "length": 12,
+      "value": "\"text\/plain\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/NWConnection+Async.swift",
+      "kind": "BooleanLiteral",
+      "offset": 284,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 641,
+      "length": 3,
+      "value": "0x0"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 724,
+      "length": 3,
+      "value": "0x1"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 809,
+      "length": 3,
+      "value": "0x2"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 884,
+      "length": 3,
+      "value": "0x8"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 958,
+      "length": 3,
+      "value": "0x9"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1023,
+      "length": 3,
+      "value": "0xA"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketConnection.swift",
+      "kind": "StringLiteral",
+      "offset": 306,
+      "length": 28,
+      "value": "\"websocket.connection.queue\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketFrame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 180,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketFrame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 206,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketFrame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 233,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketFrame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 260,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketFrame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 409,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketManager.swift",
+      "kind": "Array",
+      "offset": 211,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WithThrowingTimeout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 404,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/Models\/LogEntry.swift",
+      "kind": "StringLiteral",
+      "offset": 161,
+      "length": 5,
+      "value": "\"DEF\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/Models\/LogEntry.swift",
+      "kind": "StringLiteral",
+      "offset": 186,
+      "length": 5,
+      "value": "\"REQ\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/Models\/LogEntry.swift",
+      "kind": "StringLiteral",
+      "offset": 212,
+      "length": 5,
+      "value": "\"RES\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/Models\/LogEntry.swift",
+      "kind": "StringLiteral",
+      "offset": 242,
+      "length": 5,
+      "value": "\"NTF\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/Models\/LogFormatStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 385,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/NetworkHooking\/NetworkHook.swift",
+      "kind": "Dictionary",
+      "offset": 349,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/NetworkHooking\/TaskType.swift",
+      "kind": "StringLiteral",
+      "offset": 157,
+      "length": 15,
+      "value": "\"NSURLDataTask\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/NetworkHooking\/TaskType.swift",
+      "kind": "StringLiteral",
+      "offset": 193,
+      "length": 19,
+      "value": "\"NSURLDownloadTask\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/NetworkHooking\/TaskType.swift",
+      "kind": "StringLiteral",
+      "offset": 231,
+      "length": 22,
+      "value": "\"URLSessionStreamTask\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/NetworkHooking\/TaskType.swift",
+      "kind": "StringLiteral",
+      "offset": 272,
+      "length": 22,
+      "value": "\"URLSessionUploadTask\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/NetworkHooking\/TaskType.swift",
+      "kind": "StringLiteral",
+      "offset": 316,
+      "length": 25,
+      "value": "\"URLSessionWebSocketTask\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/DefaultLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1012,
+      "length": 27,
+      "value": "\"com.app.structured-logger\""
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/NotificationEvent.swift",
+      "kind": "Array",
+      "offset": 1143,
+      "length": 269,
+      "value": "[\"AccessibilitySettingsLoader\", \"NS\", \"CF\", \"CG\", \"CA\", \"CI\", \"CL\", \"CM\", \"CT\", \"UI\", \"AX\", \"VK\", \"MF\", \"MP\", \"AV\", \"AU\", \"AL\", \"MK\", \"PK\", \"QT\", \"SC\", \"NW\", \"WK\", \"CD\", \"AB\", \"CN\", \"SK\", \"SCN\", \"AR\", \"RK\"]"
+    },
+    {
+      "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/WirefoxConsole.swift",
+      "kind": "IntegerLiteral",
+      "offset": 394,
+      "length": 4,
+      "value": "3000"
+    }
+  ]
+}
