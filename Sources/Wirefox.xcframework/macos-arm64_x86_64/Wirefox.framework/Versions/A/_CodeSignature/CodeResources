@@ -23,28 +23,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LBGnzx2aYhB3mAm91uUJxwLaL8h/CVOVFLBJ/1DzgLY=
+			bC12kM39ggI/240TkPSIlz7z/IGZI5bEGbeQBzcAk+s=
+			</data>
+		</dict>
+		<key>Headers/Wirefox-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hWxqPfZk2XxgExEX7vcDK8bhaA3G/YrLFcj2v6uX46M=
 			</data>
 		</dict>
 		<key>Headers/Wirefox.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XedYNKZIYe7qHFhwQbDNKhBmQNIp8UYwKXQhPfzBurM=
+			J8aowqSRYbJHHgNKwq98IUih5hBUQ2G3nxIfUEqjADI=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LtGFOMVUgVHYbpe/xCTnfeDOoSt6boXUMSTjvLmI2Mw=
+			8wev8fh6hdJa50whYqPoSSbFKlmBTGF7mjtgORGy0LQ=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0P8xW+cJf3d/2cC6aM5oFmexf0dOXDhQK9pWDi3wYwA=
+			9mZstqswdRgeP9h+4Ryt0UUAETfQfHu1P6+juhO731w=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-macos.swiftdoc</key>
@@ -58,28 +65,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0P8xW+cJf3d/2cC6aM5oFmexf0dOXDhQK9pWDi3wYwA=
+			9mZstqswdRgeP9h+4Ryt0UUAETfQfHu1P6+juhO731w=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WLIOw3YhAMlu7dxROry75GP6GKA4YC3+Km7yaeSZDHk=
+			8kdevRlF06MmNN8xqmeuXogjlM+FmvjfltjUUM41JFc=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LtGFOMVUgVHYbpe/xCTnfeDOoSt6boXUMSTjvLmI2Mw=
+			8wev8fh6hdJa50whYqPoSSbFKlmBTGF7mjtgORGy0LQ=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bE2haAA2OogeQytmCe9ufLuv6ryZvpeEoYuVGO9JocI=
+			zgPRstkOBuPPdGIjb4bgBPbYDf2WZLY7/wvUhCO246E=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -93,21 +100,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bE2haAA2OogeQytmCe9ufLuv6ryZvpeEoYuVGO9JocI=
+			zgPRstkOBuPPdGIjb4bgBPbYDf2WZLY7/wvUhCO246E=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7hnImJidF+OqOVixv4+ZCW2CPzINsq69I5tZG2Udq/w=
+			7lrQLl0w/4hxjcAlZZP1ia7Lj/RaQLXthpVuTyg5h2A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SoKJ+w2pCTkHDGR6f7/wWGT+9e4Ks8H79hv4CHpNLv0=
+			jcCadSE9f/NAsVH9O0PPly/B33b3JibvcltKldyUnfQ=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>

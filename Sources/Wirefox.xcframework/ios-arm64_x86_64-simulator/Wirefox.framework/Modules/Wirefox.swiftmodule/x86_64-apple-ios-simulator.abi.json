@@ -412,12 +412,14 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:7Wirefox0A7ConsoleC4portACs6UInt16V_tcfc",
+            "usr": "c:@M@Wirefox@objc(cs)WirefoxConsole(im)initWithPort:",
             "mangledName": "$s7Wirefox0A7ConsoleC4portACs6UInt16V_tcfc",
             "moduleName": "Wirefox",
+            "objc_name": "initWithPort:",
             "declAttributes": [
               "Convenience",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "init_kind": "Convenience"
           },
@@ -589,203 +591,203 @@
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 1589,
+      "offset": 1588,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 1788,
+      "offset": 1787,
       "length": 4,
       "value": "1001"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 1912,
+      "offset": 1911,
       "length": 4,
       "value": "1002"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 2068,
+      "offset": 2067,
       "length": 4,
       "value": "1003"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 2200,
+      "offset": 2199,
       "length": 4,
       "value": "1005"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 2338,
+      "offset": 2337,
       "length": 4,
       "value": "1006"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 2512,
+      "offset": 2511,
       "length": 4,
       "value": "1007"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 2669,
+      "offset": 2668,
       "length": 4,
       "value": "1008"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 2821,
+      "offset": 2820,
       "length": 4,
       "value": "1009"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 3013,
+      "offset": 3012,
       "length": 4,
       "value": "1010"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 3210,
+      "offset": 3209,
       "length": 4,
       "value": "1011"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/CloseCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 3336,
+      "offset": 3335,
       "length": 4,
       "value": "1015"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/HTTPServer.swift",
       "kind": "StringLiteral",
-      "offset": 499,
+      "offset": 498,
       "length": 19,
       "value": "\"http.server.queue\""
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/HTTPServer.swift",
       "kind": "IntegerLiteral",
-      "offset": 922,
+      "offset": 921,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/HTTPServer.swift",
       "kind": "StringLiteral",
-      "offset": 7437,
+      "offset": 7421,
       "length": 12,
       "value": "\"text\/plain\""
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/NWConnection+Async.swift",
       "kind": "BooleanLiteral",
-      "offset": 284,
+      "offset": 283,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
       "kind": "IntegerLiteral",
-      "offset": 641,
+      "offset": 640,
       "length": 3,
       "value": "0x0"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
       "kind": "IntegerLiteral",
-      "offset": 724,
+      "offset": 723,
       "length": 3,
       "value": "0x1"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
       "kind": "IntegerLiteral",
-      "offset": 809,
+      "offset": 808,
       "length": 3,
       "value": "0x2"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
       "kind": "IntegerLiteral",
-      "offset": 884,
+      "offset": 883,
       "length": 3,
       "value": "0x8"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
       "kind": "IntegerLiteral",
-      "offset": 958,
+      "offset": 957,
       "length": 3,
       "value": "0x9"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/Opcode.swift",
       "kind": "IntegerLiteral",
-      "offset": 1023,
+      "offset": 1022,
       "length": 3,
       "value": "0xA"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketConnection.swift",
       "kind": "StringLiteral",
-      "offset": 306,
+      "offset": 305,
       "length": 28,
       "value": "\"websocket.connection.queue\""
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketFrame.swift",
       "kind": "BooleanLiteral",
-      "offset": 180,
+      "offset": 179,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketFrame.swift",
       "kind": "BooleanLiteral",
-      "offset": 206,
+      "offset": 205,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketFrame.swift",
       "kind": "BooleanLiteral",
-      "offset": 233,
+      "offset": 232,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketFrame.swift",
       "kind": "BooleanLiteral",
-      "offset": 260,
+      "offset": 259,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketFrame.swift",
       "kind": "BooleanLiteral",
-      "offset": 409,
+      "offset": 408,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/HTTP\/WebSocketManager.swift",
       "kind": "Array",
-      "offset": 211,
+      "offset": 210,
       "length": 2,
       "value": "[]"
     },
@@ -890,7 +892,7 @@
     {
       "filePath": "\/Users\/bbf\/Developer\/wirefox-core\/Wirefox\/Wirefox\/Logger\/WirefoxConsole.swift",
       "kind": "IntegerLiteral",
-      "offset": 394,
+      "offset": 408,
       "length": 4,
       "value": "3000"
     }

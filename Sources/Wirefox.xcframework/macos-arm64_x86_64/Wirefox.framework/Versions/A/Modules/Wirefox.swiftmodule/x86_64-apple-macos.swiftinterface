@@ -1,13 +1,14 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
 // swift-module-flags: -target x86_64-apple-macos14.0 -enable-objc-interop -enable-library-evolution -swift-version 6 -enforce-exclusivity=checked -O -enable-upcoming-feature InternalImportsByDefault -enable-upcoming-feature ExistentialAny -module-name Wirefox
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 public import Swift
 @_exported public import Wirefox
 public import _Concurrency
 public import _StringProcessing
 public import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers @objc(WirefoxConsole) final public class WirefoxConsole : ObjectiveC.NSObject, Swift.Sendable {
-  convenience public init(port: Swift.UInt16 = 3000)
+  @objc convenience public init(port: Swift.UInt16 = 3000)
   @objc deinit
   @objc(start:) final public func start() throws
   @objc final public func stop()

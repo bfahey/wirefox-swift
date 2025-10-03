@@ -4,3 +4,8 @@ framework module Wirefox {
 
   module * { export * }
 }
+
+module Wirefox.Swift {
+  header "Wirefox-Swift.h"
+  requires objc
+}

@@ -6,11 +6,15 @@
 	<dict>
 		<key>Headers/URLSessionSwizzler.h</key>
 		<data>
-		TpQTbPyioPhlyfzC2qyoK8+wlnI=
+		NYbT0S8mtj9paKmPrz2tu6WMfD4=
+		</data>
+		<key>Headers/Wirefox-Swift.h</key>
+		<data>
+		74z1UM/zEgWGVffqx5HFQNlZ53k=
 		</data>
 		<key>Headers/Wirefox.h</key>
 		<data>
-		hFI2HGNy1qjc9llB8vVlvYYfsS4=
+		gXCFnIGcz1itJHgIyUfOl09w1b4=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -18,11 +22,11 @@
 		</data>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Nsc/IvGLIUo4hAsUTRrwENcWeHU=
+		5JXddPSy6zPX/8I+PkrlGVjZOvA=
 		</data>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		oTLMDxli5UafF8KPXh7JxetUxoE=
+		pjlFEJI91RJ7ixjzqfNKoFo1DI8=
 		</data>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +34,19 @@
 		</data>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		oTLMDxli5UafF8KPXh7JxetUxoE=
+		pjlFEJI91RJ7ixjzqfNKoFo1DI8=
 		</data>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		H92XnrOAUjzvIcrWy1BexYAkZPA=
+		yihwPUdyhDto8+RgU5d1DZg9VTk=
 		</data>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Nsc/IvGLIUo4hAsUTRrwENcWeHU=
+		5JXddPSy6zPX/8I+PkrlGVjZOvA=
 		</data>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xa3P9IwqBHVDP2tO0RuXHCMlPP0=
+		GkwC0F9w57LhZnWb0fiJZw54nqs=
 		</data>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,15 +54,15 @@
 		</data>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xa3P9IwqBHVDP2tO0RuXHCMlPP0=
+		GkwC0F9w57LhZnWb0fiJZw54nqs=
 		</data>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		G8XDTmBia4ilBaAfu5b19NRzeLo=
+		FJaDpcPd4PLdBP44+ByUXonsfQI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		EJfR8H5Svot0tBCNx821iDXjgDs=
+		6j/tNXegQdjs5Coi3Js7kCSKYec=
 		</data>
 		<key>index.html.gz</key>
 		<data>
@@ -75,28 +79,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LBGnzx2aYhB3mAm91uUJxwLaL8h/CVOVFLBJ/1DzgLY=
+			bC12kM39ggI/240TkPSIlz7z/IGZI5bEGbeQBzcAk+s=
+			</data>
+		</dict>
+		<key>Headers/Wirefox-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hWxqPfZk2XxgExEX7vcDK8bhaA3G/YrLFcj2v6uX46M=
 			</data>
 		</dict>
 		<key>Headers/Wirefox.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XedYNKZIYe7qHFhwQbDNKhBmQNIp8UYwKXQhPfzBurM=
+			J8aowqSRYbJHHgNKwq98IUih5hBUQ2G3nxIfUEqjADI=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LtGFOMVUgVHYbpe/xCTnfeDOoSt6boXUMSTjvLmI2Mw=
+			8wev8fh6hdJa50whYqPoSSbFKlmBTGF7mjtgORGy0LQ=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d3s6mgNTn2ZQK9+DA91oyS/K3RVJaCcjj/D/b9S6YQU=
+			wj6OfC0PEPN6vAlXHZUNb42DZL/sku6OqQ+UKf3pyng=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -110,28 +121,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d3s6mgNTn2ZQK9+DA91oyS/K3RVJaCcjj/D/b9S6YQU=
+			wj6OfC0PEPN6vAlXHZUNb42DZL/sku6OqQ+UKf3pyng=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JuQDcCyP4qqu80UIQ148MAzBBwKEH6PCbLmgrKmf9AQ=
+			b32e+G24Mi/XswRCPne/X2uXvaBaiFG5bIRK0MY0BOY=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LtGFOMVUgVHYbpe/xCTnfeDOoSt6boXUMSTjvLmI2Mw=
+			8wev8fh6hdJa50whYqPoSSbFKlmBTGF7mjtgORGy0LQ=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tL5qUhW322OB8UE6LbcJpNomwmm31jYZCCcm3An9fRQ=
+			mIjqx0HHik/koW+GTD3oXBwLp3Olobt6k+lov6ooOxY=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,21 +156,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tL5qUhW322OB8UE6LbcJpNomwmm31jYZCCcm3An9fRQ=
+			mIjqx0HHik/koW+GTD3oXBwLp3Olobt6k+lov6ooOxY=
 			</data>
 		</dict>
 		<key>Modules/Wirefox.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VZgW3hwZBy995GmW1oPFIgrMeekjrkH2Vn3l9CJZRRE=
+			F3kZKxvzemy3j2UYOkCqjS5Gp1H14NmP0qnagTZqcHA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SoKJ+w2pCTkHDGR6f7/wWGT+9e4Ks8H79hv4CHpNLv0=
+			jcCadSE9f/NAsVH9O0PPly/B33b3JibvcltKldyUnfQ=
 			</data>
 		</dict>
 		<key>index.html.gz</key>

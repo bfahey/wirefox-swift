@@ -1,10 +1,3 @@
-//
-//  Wirefox.h
-//  Wirefox
-//
-//  Created by Blaine Fahey on 9/23/25.
-//
-
 #import <Foundation/Foundation.h>
 
 //! Project version number for Wirefox.
